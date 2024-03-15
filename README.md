@@ -6,3 +6,5 @@ JavaScript regular expressions.
 
 ### Screeshots:
 
+![jsl_01_final_result](https://github.com/KemisoMalatsi/KEMMAL529_BCL2401_Group-C_Kemiso-Malatsi_JSL01/assets/156844247/0799505a-9f91-43b1-8bcc-f742ad1ab4a3)
+
