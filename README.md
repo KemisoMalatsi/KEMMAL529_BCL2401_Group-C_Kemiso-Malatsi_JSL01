@@ -4,6 +4,6 @@ I created a JavaScript function that checks if the user has entered valid pet ad
 
 ### Techniques Used:
 
-JavaScript
+JavaScript regular expressions.
 
 ### Screeshots:
